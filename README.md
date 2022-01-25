@@ -11,6 +11,7 @@ This code contains the landing page of the platform where information on how to 
 ## Folders and Files used:
 
 [Home Page top] (resources/hometop.png)
+[Home Page middle] (resources/homemiddle.png)
 
 ## Technologies used
 - HTML
