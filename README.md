@@ -22,7 +22,7 @@ This code contains the landing page of the platform where information on how to 
 - PhP (Laravel)
 
 
-## Instructions:
+## Instructions for installation:
 
 - clone the repo 
 - run the file on your local computer and create a Pull Request"
